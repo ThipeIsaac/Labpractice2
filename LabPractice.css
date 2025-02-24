@@ -1,0 +1,70 @@
+*{
+    padding: 0;
+    /* padding: 0; */
+    box-sizing: border-box;
+    font-family: sans-serif, Arial;
+    align-items: center;
+    
+}
+
+body{
+
+    justify-content: center;
+}
+
+
+#HeaderItems{
+
+    display: flex;
+    background-color: black;
+    color: white;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#HeaderHeading{
+
+    text-align: center;
+    padding: 15px;
+    padding-left: 150px;
+    font-size: large;
+}
+
+.Navigation {
+    justify-content: space-between;
+    padding-right: 100px;
+}
+
+.Navigation a {
+
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding: 8px 8px;
+}
+
+#OurServices{
+
+    text-align: center;
+
+    
+}
+
+#AboutSection{
+
+    margin-left: 500px;
+    align-items: center;
+    border-color:black ;
+}
+
+#MainSection{
+    display: flex;
+    /* justify-content: space-around; */
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+
+}
+
+
+
